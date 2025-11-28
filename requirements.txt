@@ -1,0 +1,10 @@
+fastapi
+pandas
+playwright
+langgraph
+openai
+dotenv
+uvicorn
+os
+google-api-python-client
+requests
